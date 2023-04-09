@@ -1,0 +1,329 @@
+
+<!doctype html >
+<html> _ _
+
+	< đầu >
+		< bộ ký tự meta  = " utf-8 " >
+		< title > VANSANG | TRANG CHỦ </ tiêu đề >
+		< kiểu  kiểu = " văn bản/css " >
+			/* Tài liệu CSS */
+			* {
+				lề :  0 ;
+				phần đệm :  0 ;
+			}
+
+			một {
+				trang trí văn bản : không có;
+			}
+
+			. Clearfix : sau {
+				nội dung :  "" ;
+				hiển thị : khối;
+				chiều cao :  0 ;
+				khả năng hiển thị : ẩn;
+				rõ ràng : cả hai;
+			}
+
+			. sửa lỗi {
+				* thu phóng :  1 ;
+			}
+
+			cơ thể {
+				nền :  url (https://www.dmoe.cc/random.php) không lặp lại;
+				kích thước nền : bìa;
+				tệp đính kèm nền : đã sửa;
+			}
+
+			. nội dung {
+				chiều rộng :  900 px ;
+				chiều cao :  500 px ;
+				lề :  200 px tự động 0 tự động;
+				bán kính đường viền :  10 px ;
+				màu nền :  rgba ( 236 ,  236 ,  236 ,  0,59 );
+				quá trình chuyển đổi : tất cả 1,0 giây ;
+				/*box-shadow: 0px 0px 20px rgba(0,0,0,0.3);*/
+			}
+
+			. nội dung  img {
+				nổi : trái;
+				chiều rộng :  200 px ;
+				chiều cao :  200 px ;
+				lề :  150 px  0  0  80 px ;
+				bán kính đường viền :  100 px ;
+
+			}
+
+			. nội dung : di chuột {
+				bóng hộp :  0 px  0 px  20 px  rgb ( 0 ,  162 ,  255 );
+			}
+
+			. nội dung_r {
+				nổi : phải;
+				chiều rộng :  500 px ;
+				lề :  80 px  60 px  0  0 ;
+				/* màu nền: hồng;*/
+			}
+
+			. nội dung_l {
+				nổi : trái;
+				chiều rộng :  100 % ;
+				căn chỉnh văn bản : trung tâm;
+			}
+
+			. dung_l  h5 {
+
+				cỡ chữ :  17 px ;
+			}
+
+			. sinh học {
+				lề trên :  10 px ;
+				màu :  # 1F2023 ;
+				cỡ chữ :  18 px ;
+			}
+
+			. màu_1 {
+				màu :  # 4855EC ;
+				cỡ chữ :  18 px ;
+			}
+
+			. hồng đậm {
+				màu sắc : hồng đậm;
+			}
+
+			. liên kết {
+				lề trên :  30 px ;
+			}
+
+			. liên kết  một {
+				hiển thị : khối;
+				nổi : trái;
+				chiều rộng :  120 px ;
+				chiều cao :  45px ;
+				lề :  5px 5px  0 0 ; _ _  
+				/* đệm: 0 15px;*/
+				màu sắc :  # fff ;
+				chiều cao dòng :  45 px ;
+				quá trình chuyển đổi : tất cả 0,8 giây ;
+				/* màu nền: deeppink;*/
+
+			}
+
+			. liên kết  một : di chuột {
+				màu nền :  rgba ( 0 ,  0 ,  0 ,  0,35 );
+                bóng hộp :  0 px  0 px  20 px  rgb ( 61 ,  196 ,  230 );
+			}
+
+			. đen {
+				màu nền :  rgb ( 36 ,  35 ,  35 );
+			}
+
+			. màu xanh da trời {
+				màu nền : Dodgerblue;
+			}
+
+			. màu xanh lá cây {
+				màu nền :  rgb ( 0 ,  211 ,  248 );
+			}
+
+			. màu đỏ {
+				màu nền :  rgb ( 216 ,  25 ,  25 );
+			}
+		</ phong cách >
+        < link  rel =" stylesheet " href =" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css " >
+        < link  rel =" biểu tượng phím tắt " href =" http://thanhdieu.com/files/thanhdieugirl.jpg " type =" image/x-icon " >
+	</ đầu >
+	< cơ thể >
+		< div  class =" nội dung " >
+			< img  src =" https://www.meme-arsenal.com/memes/c121c193cb22b9f186414cde0c477696.jpg " alt ="" >
+			< div  class =" content_r Clearfix " >
+				< div  class =" content_l Clearfix " >
+					< h2 > Xin chào ~ Tôi là Sáng, xin chào các bạn đã đến ! </ h2 >
+					< p  class =" bio " > " Chào mừng bạn đến với trang web của tôi " </ p >
+					< p  class =" bio " > Nhứng nhán nhần nháy nhấp nhần nhơ, nhêu nhông nhần nhơ nhớ nhần mảnh ghép nhơ </ p >
+					<br> _ _
+					< p  class =" color_1 " > Tôi là nhà phát triển </p>
+					<!-- <p class="color_1"></p> -->
+					<br> _ _
+					< p  class =" deeppink " > Nếu mỗi lần nhớ tới em anh được 500 đồng chắc chắn giờ này anh đã vượt xa Bill Gates. </p> _ _
+					< lớp div  = " liên kết " >
+						< a  href =" https://www.facebook.com/https://100047529977772?-Based-VănSáng " class =" Dodgerblue " target =" _blank " > < i  class =" fa fa-facebook-square " > </ i > Facebook </a> _ _
+						< a  href =" https://github.com/WusThanhDieu?-Based-ThanhDieu " class =" black " target =" _blank " > < i  class =" fa fa-github " > </ i > Github </ a >
+						< a  href =" https://www.youtube.com/@sang___________________?-Base-VănSáng " class =" red " target =" _blank " > < i  class =" fa fa-youtube-play " > </ i > Youtube </ a >
+                    
+                    </ div >     < br >     < br >     < br >     < br > 
+                    < iframe  frameborder =" no " border =" 0 " marginwidth =" 0 " marginheight =" 0 " width = 330  height = 86  src =" //music.163.com/outchain/player?type=2&id=1459436024&auto=1&height =66 " > </ iframe >
+				</ div >
+			</ div >
+		</ div >
+        < kịch bản >
+
+//▬▬▬▬▬▬▬▬▬▬
+   // HOA ANH ĐÀO
+//▬▬▬▬▬▬▬▬▬▬
+var  dừng ,  tĩnhx ;
+var  img  =  Hình ảnh mới  ( ) ;
+hình ảnh . src  =  "https://i.imgur.com/R9XUjfF.png" ;
+
+			function  Sakura ( x ,  y ,  s ,  r ,  fn )  {
+				này . x  =  x ;
+				này . y  =  y ;
+				này . s  =  s ;
+				này . r  =  r ;
+				này . fn  =  fn ;
+			}
+
+			Sakura . nguyên mẫu . vẽ  =  hàm ( cxt )  {
+				cxt . lưu ( ) ;
+				var  xc  =  40  *  cái này . s  /  4 ;
+				cxt . dịch ( cái này . x ,  cái này . y ) ;
+				cxt . xoay ( cái này . r ) ;
+				cxt . drawImage ( img ,  0 ,  0 ,  40  *  cái này . s ,  40  *  cái này . s )
+				cxt . phục hồi ( ) ;
+			}
+
+			Sakura . nguyên mẫu . cập nhật  =  chức năng ( )  {
+				này . x  =  cái này . fn . x ( cái này . x ,  cái này . y ) ;
+				này . y  =  cái này . fn . y ( cái này . y ,  cái này . y ) ;
+				này . r  =  cái này . fn . r ( cái này . r ) ;
+				if ( this . x  >  window . innerWidth  ||
+					này . x  <  0  ||
+					này . y  >  cửa sổ . chiều cao bên trong  ||
+					này . y  <  0
+				)  {
+					này . r  =  getRandom ( 'fnr' ) ;
+					nếu ( Math . ngẫu nhiên ( )  >  0.4 )  {
+						này . x  =  getRandom ( 'x' ) ;
+						này . y  =  0 ;
+						này . s  =  getRandom ( 's' ) ;
+						này . r  =  getRandom ( 'r' ) ;
+					}  khác  {
+						này . x  =  cửa sổ . chiều rộng bên trong ;
+						này . y  =  getRandom ( 'y' ) ;
+						này . s  =  getRandom ( 's' ) ;
+						này . r  =  getRandom ( 'r' ) ;
+					}
+				}
+			}
+
+			SakuraList  =  hàm ( )  {
+				này . danh sách  =  [ ] ;
+			}
+			Danh sách Sakura . nguyên mẫu . đẩy  =  chức năng ( sakura )  {
+				này . danh sách . đẩy ( sakura ) ;
+			}
+			Danh sách Sakura . nguyên mẫu . cập nhật  =  chức năng ( )  {
+				for ( var  i  =  0 ,  len  =  this . list . length ;  i  <  len ;  i ++ )  {
+					này . danh sách [ i ] . cập nhật ( ) ;
+				}
+			}
+			Danh sách Sakura . nguyên mẫu . vẽ  =  hàm ( cxt )  {
+				for ( var  i  =  0 ,  len  =  this . list . length ;  i  <  len ;  i ++ )  {
+					này . danh sách [ i ] . vẽ ( cxt ) ;
+				}
+			}
+			Danh sách Sakura . nguyên mẫu . lấy  =  hàm ( i )  {
+				trả lại  cái này . danh sách [ tôi ] ;
+			}
+			Danh sách Sakura . nguyên mẫu . kích thước  =  chức năng ( )  {
+				trả lại  cái này . danh sách . chiều dài ;
+			}
+
+			hàm  getRandom ( tùy chọn )  {
+				var  ret ,  ngẫu nhiên ;
+				chuyển đổi ( tùy chọn )  {
+					trường hợp  'x' :
+						ret  =  Toán học . ngẫu nhiên ( )  *  cửa sổ . chiều rộng bên trong ;
+						phá vỡ ;
+					trường hợp  'y' :
+						ret  =  Toán học . ngẫu nhiên ( )  *  cửa sổ . chiều cao bên trong ;
+						phá vỡ ;
+					trường hợp  's' :
+						ret  =  Toán học . ngẫu nhiên ( ) ;
+						phá vỡ ;
+					trường hợp  'r' :
+						ret  =  Toán học . ngẫu nhiên ( )  *  5 ;
+						phá vỡ ;
+					trường hợp  'fnx' :
+						ngẫu nhiên  =  - 0,5  +  Toán . ngẫu nhiên ( )  *  1 ;
+						ret  =  hàm ( x ,  y )  {
+							trả lại  x  +  0,5  *  ngẫu nhiên  -  1 ;
+						} ;
+						phá vỡ ;
+					trường hợp  'fny' :
+						ngẫu nhiên  =  0,5  +  Toán học . ngẫu nhiên ( )  *  0,5
+						ret  =  hàm ( x ,  y )  {
+							trả lại  y  +  ngẫu nhiên ;
+						} ;
+						phá vỡ ;
+					trường hợp  'fnr' :
+						ngẫu nhiên  =  Toán học . ngẫu nhiên ( )  *  0,01 ;
+						ret  =  hàm ( r )  {
+							return r + random;
+						};
+						break;
+				}
+				return ret;
+			}
+
+			function startSakura() {
+
+				requestAnimationFrame = window.requestAnimationFrame ||
+					window.mozRequestAnimationFrame ||
+					window.webkitRequestAnimationFrame ||
+					window.msRequestAnimationFrame ||
+					window.oRequestAnimationFrame;
+				var canvas = document.createElement('canvas'),
+					cxt;
+				staticx = true;
+				canvas.height = window.innerHeight;
+				canvas.width = window.innerWidth;
+				canvas.setAttribute('style', 'position: fixed;left: 0;top: 0;pointer-events: none;');
+				canvas.setAttribute('id', 'canvas_sakura');
+				document.getElementsByTagName('body')[0].appendChild(canvas);
+				cxt = canvas.getContext('2d');
+				var sakuraList = new SakuraList();
+				for(var i = 0; i < 50; i++) {
+					var sakura, randomX, randomY, randomS, randomR, randomFnx, randomFny;
+					randomX = getRandom('x');
+					randomY = getRandom('y');
+					randomR = getRandom('r');
+					randomS = getRandom('s');
+					randomFnx = getRandom('fnx');
+					randomFny = getRandom('fny');
+					randomFnR = getRandom('fnr');
+					sakura = new Sakura(randomX, randomY, randomS, randomR, {
+						x: randomFnx,
+						y: randomFny,
+						r: randomFnR
+					});
+					sakura.draw(cxt);
+					sakuraList.push(sakura);
+				}
+				stop = requestAnimationFrame(function() {
+					cxt.clearRect(0, 0, canvas.width, canvas.height);
+					sakuraList.update();
+					sakuraList.draw(cxt);
+					stop = requestAnimationFrame(arguments.callee);
+				})
+			}
+
+			window.onresize = function() {
+				var canvasSnow = document.getElementById('canvas_snow');
+				canvasSnow.width = window.innerWidth;
+				canvasSnow.height = window.innerHeight;
+			}
+
+			img.onload = function() {
+				startSakura();
+			}
+
+			function stopp() {
+				if(staticx) {
+					var child = document.getElementById("canvas_sakura");
+					child.parentNode.removeChild(child);
+					window.cancelAnimationFrame(stop);
+					staticx = false;
+				} else {
+					startSakura();
+				}
+			} 
